@@ -1,7 +1,8 @@
 # 📊 Credit Risk Analytics Dashboard
 > End-to-end data analytics project on 307K+ loan applications — from raw data to interactive Power BI dashboard.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](<img width="1655" height="797" alt="image" src="https://github.com/user-attachments/assets/109baa42-961e-4f5f-ae51-9e797465165e" />
+)
 
 ---
 
