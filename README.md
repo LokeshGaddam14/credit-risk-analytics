@@ -65,33 +65,6 @@ Matplotlib / Seaborn — EDA visualizations
 
 ---
 
-## 📁 Repository Structure
-
-credit-risk-analytics/
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_sql_analysis.ipynb
-│   └── 05_modeling_xgb_lgbm.ipynb
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── default_by_income.sql
-│   ├── default_by_age.sql
-│   └── portfolio_exposure.sql
-│
-├── dashboard/
-│   └── credit_risk_dashboard.pdf
-│
-├── images/
-│   └── dashboard_preview.png
-│
-└── README.md
-
----
-
 ## ⚙️ Setup & Reproduction
 
 ### 1. Clone the repo
