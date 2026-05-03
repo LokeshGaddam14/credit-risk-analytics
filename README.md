@@ -54,7 +54,8 @@ Under the **Basel III IRB framework**, lenders must estimate Probability of Defa
 
 ## 🛠️ Tech Stack
 
-Python 3.x       — Data cleaning, EDA, feature engineering, ML modeling
+```
+Python 3.13       — Data cleaning, EDA, feature engineering, ML modeling
 MySQL            — Database storage, SQL analysis queries
 Power BI Desktop — Dashboard, DAX measures, Power Query (ODBC)
 XGBoost          — Gradient boosted classifier
@@ -62,6 +63,7 @@ LightGBM         — Fast gradient boosting with SHAP explainability
 SHAP             — Model interpretability
 Pandas / NumPy   — Data manipulation
 Matplotlib / Seaborn — EDA visualizations
+```
 
 ---
 
