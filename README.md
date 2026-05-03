@@ -1,4 +1,5 @@
-# 📊 Credit Risk Analytics Dashboard
+# 📊 Credit Risk Analytics Dashboard  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mKAywe9_Qlh6-heqeMXI1-y8qAK105mT?usp=sharing)
 > End-to-end data analytics project on 307K+ loan applications — from raw data to interactive Power BI dashboard.
 
 **Dashboard Preview**
